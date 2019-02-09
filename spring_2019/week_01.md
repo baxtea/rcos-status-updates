@@ -1,24 +1,21 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+Got a working build of the project
+Got my GitHub permissions fixed, submitted linux build instructions to the wiki
+Met some people on the team
+Began porting the selection properties popup menu to TypeScript
+Assembled a list of usability quirks and feature requests
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+Continue porting the selection properties popup menu to TypeScript
+ - Go back to psoft notes to search for applicable design patterns
+ - Look into reflection/descriptors as a possible way to implement this cleanly
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+Become more familiar with DOM manipulation in TypeScript (as opposed to my background in mostly WebGL)
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+General unfamiliarity with the code base and how to interact with it
+ - Especially difficult with differing code styles from different times/people
+Knowledge of TypeScript is fairly superficial
