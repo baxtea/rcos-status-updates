@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
- - Implemented input count and output count in the selection poup menu
+ - Implemented input count and output count in the selection popup menu
  - Re-styled the "Create IC" button to be more internally and externally consistent
  - Submitted a PR to finish up the work
 
